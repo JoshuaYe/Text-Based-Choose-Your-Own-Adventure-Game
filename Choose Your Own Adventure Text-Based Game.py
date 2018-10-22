@@ -1,6 +1,7 @@
-#COMPUTER SCIENCE GRADE 10 SUMMATIVE
+"""Created by Joshua Ye and Bryan Kikuta
+June 1, 2018 """
 
-"""Choose your adventure where you are stuck in a rainforest. You need to safety. You have inventory where you
+"""This is a choose your adventure where you are stuck in a rainforest. You need to safety. You have inventory where you
 choose an item to take with you. You need to stay alive without dying or losing all your energy."""
 
 
